@@ -1,0 +1,23 @@
+PODS:
+  - BAlertView (1.0.8)
+  - BDatePicker (0.1.0):
+    - BAlertView (~> 1.0.8)
+
+DEPENDENCIES:
+  - BDatePicker (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BAlertView
+
+EXTERNAL SOURCES:
+  BDatePicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BAlertView: e5ccdcfb6fe6e811073af81efa2d05b92d4d5b1c
+  BDatePicker: 0c8ec0c9d0ab1a2f753f053a1ce582df6eec9c23
+
+PODFILE CHECKSUM: 2662c520f3cce6ac2dc293ecda26ee336789723c
+
+COCOAPODS: 1.6.0.beta.2

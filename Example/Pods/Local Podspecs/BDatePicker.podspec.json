@@ -1,0 +1,27 @@
+{
+  "name": "BDatePicker",
+  "version": "0.1.0",
+  "summary": "A short description of BDatePicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/february29/BDatePicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "february29": "pengyou_byh@163.com"
+  },
+  "source": {
+    "git": "https://github.com/february29/BDatePicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BDatePicker/Classes/**/*",
+  "dependencies": {
+    "BAlertView": [
+      "~> 1.0.8"
+    ]
+  }
+}
